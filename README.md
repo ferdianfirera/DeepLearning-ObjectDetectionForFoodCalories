@@ -4,6 +4,8 @@
 ![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00ffff?style=for-the-badge&logo=yolo&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+![image alt](https://github.com/ferdianfirera/DeepLearning-ObjectDetectionForFoodCalories/blob/4a5dcce88e758374e4dbb4bd92df937ea9fd2c84/Screenshot%202026-02-09%20174208.png)
+
 A deep learning-based web application that detects food items from images and estimates their total calories. Built with **Streamlit** and powered by state-of-the-art object detection models including **YOLO11**, **YOLO12m**, and **RT-DETR**.
 
 ## ✨ Features
